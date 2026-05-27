@@ -139,7 +139,7 @@ Calculates:
 * Efficient Frontier visualization
 * Drawdown curves
 * Rolling returns
-* FD growth vs inflation comparison
+* FD growth vs Inflation comparison
 
 ---
 
